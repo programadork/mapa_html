@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: teal;
+    font-family: 'Arial';
+}
+
+.h1{
+    text-align: center;
+    padding: 30px;
+    color: white;
+    font-size: 50px;
+}
+
+.iframe{
+    display: block;
+    width: 1200px;
+    margin: auto;
+}
